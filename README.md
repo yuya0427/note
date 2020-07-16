@@ -5,5 +5,4 @@
 https://github.com/MicrosoftDocs/pipelines-java-function  
 2.Azure Functionsの準備  
 3.pipelineの作成  
-![エビフライトライアングル](http://i.imgur.com/Jjwsc.jpg "サンプル")
 ![top-page](https://raw.githubusercontent.com/cakecatz/garage/images/garage-screenshot-01.png)
